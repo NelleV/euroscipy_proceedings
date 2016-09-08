@@ -1,25 +1,24 @@
 {
   "proceedings": {
-     "citation_key": "proc-euroscipy-2013",
+     "citation_key": "proc-euroscipy-2016",
      "title": {
        "acronym": "EuroSciPy",
        "conference": "European Conference on Python in Science",
-       "ordinal": "6th",
-       "short": "PROC. OF THE 6th EUR. CONF. ON PYTHON IN SCIENCE (EUROSCIPY 2013)",
-       "full": "Proceedings of the 6th European Conference on Python in Science"
+       "ordinal": "9th",
+       "short": "PROC. OF THE 9th EUR. CONF. ON PYTHON IN SCIENCE (EUROSCIPY 2016)",
+       "full": "Proceedings of the 9th European Conference on Python in Science"
      },
-     "year": "2013",
-     "copyright_year": "2014",
+     "year": "2016",
+     "copyright_year": "2016",
      "editor": [
-        "Pierre de Buyl",
         "Nelle Varoquaux"
      ],
-     "volume": 6,
+     "volume": 9,
      "number": 1,
      "isbn": "value",
      "arxiv_identifier": "YYYY.NNNN",
-     "location": "Brussels, Belgium",
-     "dates": "21-25 August 2013",
+     "location": "Erlangen, Germany",
+     "dates": "23-27 August 2016",
      "copyright": {
        "article": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. http://creativecommons.org/licenses/by/3.0/",
        "proceedings": ["The articles in the Proceedings of the Python in Science Conference are copyrighted and owned by their original authors.",
@@ -32,80 +31,68 @@
         {
             "name": "Conference Chairs",
             "members": [
-                {"name": "Pierre de Buyl",
-                 "org": "Université libre de Bruxelles"},
-                {"name": "Nicolas Pettiaux",
-                 "org": "Haute École de Bruxelles - École supérieure d'informatique"}
+                {"name": "Thomas Pohl",
+                 "org": ""}
                 ]
         },
- 
+
         {
-            "name": "Program Committee Chair",
+            "name": "Program Chair",
             "members": [
-                {"name": "Tiziano Zito",
-                 "org": "Humboldt-Universität zu Berlin"}
+                {"name": "Federico Vaggi",
+                 "org": "Fondazione Edmund Mach, Italy"}
                 ]
         },
 
         {
             "name": "Tutorial Chairs",
             "members": [
-                {"name": "Nicolas Rougier",
-                 "org": "Inria Nancy"}
+                {"name": "Emmanuelle Gouillart",
+                 "org": "Joint Unit CNRS/Saint Gobain, France"}
                 ]
         },
 
         {
             "name": "Program Committee",
             "members": [
+		{"name": "Evgeni Burovski",
+		 "org": "Lancaster University, UK"},
 		{"name": "Pierre de Buyl",
-		 "org": "Université libre de Bruxelles"},
-		{"name": "Ralf Gommers",
-		 "org": "ASML"},
-		{"name": "Emmanuelle Gouillart. Joint Unit CNRS/Saint-Gobain",
-		 "org": "France"},
-		{"name": "Kael Hanson",
-		 "org": "Université libre de Bruxelles"},
-		{"name": "Konrad Hinsen",
-		 "org": "Centre National de la Recherche Scientifique (CNRS)"},
-		{"name": "Hans Petter Langtangen",
-		 "org": "Simula and University of Oslo"},
-		{"name": "Mike Müller",
-		 "org": "Python Academy"},
-		{"name": "Raphael Ritz",
-		 "org": "International Neuroinformatics Coordinating Facility"},
-		{"name": "Stéfan van der Walt",
-		 "org": "Applied Mathematics"},
-		{"name": "Gaël Varoquaux",
-		 "org": "INRIA Parietal"},
+		 "org": "KU, Leuven"},
+	        {"name": "Kyle Kastner",
+		 "org": ""},
+		{"name": "Almar Klein",
+		 "org": "Continuum Analytics, The Netherlands"},
+		{"name": "Fabian Pedregosa",
+		 "org": ""},
+		{"name": "Nicolas Rougier",
+		 "org": "INRIA"},
 		{"name": "Nelle Varoquaux",
-		 "org": "Mines ParisTech"},
+		 "org": "Mines ParisTech, INSERM, Institut Curie, France"},
 		{"name": "Pauli Virtanen",
-		 "org": "Aalto University"}
+		 "org": "Aalto University"},
+		{"name": "Dan Weaver",
+		 "org": ""},
+		{"name": "Tiziano Zito",
+		 "org": ""}
 	    ]
         },
 
         {
             "name": "Organizing Committee",
             "members": [
-		{"name": "Nicolas Chauvat",
-		 "org": "Logilab"},
+		{"name": "Alexandre Savio",
+		 "org": "TU Munich"},
 		{"name": "Emmanuelle Gouillart. Joint Unit CNRS/Saint-Gobain",
 		 "org": "France"},
-		{"name": "Kael Hanson",
-		 "org": "Université libre de Bruxelles"},
-		{"name": "Renaud Lambiotte",
-		 "org": "University of Namur"},
-		{"name": "Thomas Lecocq",
-		 "org": "Royal Observatory of Belgium"},
 		{"name": "Mike Müller",
 		 "org": "Python Academy"},
-		{"name": "Didrik Pinte",
-		 "org": "Enthought"},
-		{"name": "Gaël Varoquaux",
-		 "org": "INRIA Parietal"},
+                {"name": "Thomas Pohl",
+                 "org": ""},
+                {"name": "Federico Vaggi",
+                 "org": "Fondazione Edmund Mach, Italy"},
 		{"name": "Nelle Varoquaux",
-		 "org": "Mines ParisTech"}
+		 "org": "UC Berkeley, BIDS Data Science fellow"}
 		]
 	},
 
@@ -113,35 +100,7 @@
             "name": "Proceedings reviewers",
             "members": [
 		{"name": "Francesc Alted",
-		 "org": "Continuum Analytics Inc."},
-		{"name": "Daniel J. Bates",
-		 "org": "Colorado State University"},
-		{"name": "Ondřej Čertík",
-		 "org": "Los Alamos National Laboratory"},
-		{"name": "David Cournapeau",
-		 "org": "Enthought"},
-		{"name": "Alexandre Gramfort",
-		 "org": "Telecom ParisTech, CNRS LTCI"},
-		{"name": "Valentin Haenel",
-		 "org": "Independent"},
-		{"name": "Konrad Hinsen",
-		 "org": "Centre National de la Recherche Scientifique (CNRS)"},
-		{"name": "Robert Kern",
-		 "org": "Enthought"},
-		{"name": "Mike Müller",
-		 "org": "Python Academy"},
-		{"name": "Andy R. Terrel",
-		 "org": "Continuum Analytics Inc."},
-		{"name": "C. Titus Brown",
-		 "org":  "Michigan State University"},
-		{"name": "Jake Vanderplas",
-		 "org": "University of Washington"},
-		{"name": "Gaël Varoquaux",
-		 "org": "INRIA Parietal"},
-		{"name": "Paul Zimmermann",
-		 "org": "INRIA"},
-                {"name": "Tiziano Zito",
-                 "org": "Humboldt-Universität zu Berlin"}
+		 "org": "Independent"}
 		]
 	}
 
